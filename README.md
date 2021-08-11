@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan (Chuy)
 - 👀 I’m interested in Java, Python, Oracle, SQL and Pandas. 
-- 🌱 I’m currently learning Pandas libraries. 
+- 🌱 I’m currently learning Pandas library.
 - 💞️ I’m looking to collaborate on data science projects.
 
 <!---
